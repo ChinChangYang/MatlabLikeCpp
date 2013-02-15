@@ -1,0 +1,15 @@
+MatlabLikeCpp TODO List
+
+Port the following Matlab functions to C++:
+
+1. min
+2. sort
+3. cov
+4. eig
+
+Port the following Matlab behaviors to C++:
+
+1. Insert a matrix into a matrix
+2. Delete a sub-matrix from a matrix
+3. Get a sub-matrix in a matrix
+4. Matrix multiplication
