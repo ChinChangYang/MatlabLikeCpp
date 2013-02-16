@@ -13,3 +13,9 @@ Port the following Matlab behaviors to C++:
 2. Delete a sub-matrix from a matrix
 3. Get a sub-matrix in a matrix
 4. Matrix multiplication
+
+Test the following functions in this project:
+
+1. min
+2. sort
+3. rand
