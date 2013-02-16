@@ -2,13 +2,10 @@ MatlabLikeCpp TODO List
 
 Port the following Matlab functions to C++:
 
-1. min
-2. sort
-3. cov
-4. eig
-5. mean
-6. std
-7. rand
+1. cov
+2. eig
+3. mean
+4. std
 
 Port the following Matlab behaviors to C++:
 
